@@ -1,0 +1,20 @@
+1. What is a server port?
+A server port is like an entry number for server so client can reach it through network. Every service run on specific port.
+
+2. What is the range of port numbers?
+Port number go from 0 until 65535
+
+3. How many bits is a port number?
+Port number is 16 bit.
+
+4. What are the 10 most common ports?
+- 20: used for FTP data
+- 21: FTP control command
+- 22: SSH for connect remote
+- 23: Telnet, old way to remote computer
+- 25: email send by SMTP
+- 53: DNS system to change website name to IP
+- 80: HTTP for normal website
+- 110: POP3 for receiving email
+- 143: IMAP, also email read
+- 443: HTTPS for secure website
