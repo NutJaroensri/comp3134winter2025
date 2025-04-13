@@ -1,0 +1,27 @@
+Domain: google.com  
+IP Address: 142.251.46.206  
+Location: United States, California (Mountain View)
+
+--------------------------------------------------
+
+Domain: youtube.com  
+IP Address: 142.251.46.238  
+Location: United States, California (San Francisco)
+
+--------------------------------------------------
+
+Domain: twitter.com  
+IP Address: 162.159.140.229  
+Location: United States, California (San Francisco)
+
+--------------------------------------------------
+
+Domain: instagram.com  
+IP Address: 157.240.22.174  
+Location: United States, California (Santa Clara)
+
+--------------------------------------------------
+
+Domain: facebook.com  
+IP Address: 157.240.22.35  
+Location: United States, California (Santa Clara)

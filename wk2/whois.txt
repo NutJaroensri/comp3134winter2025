@@ -1,0 +1,57 @@
+Domain: google.com  
+Registrar: MarkMonitor Inc.  
+Whois Server: whois.markmonitor.com  
+Referral URL: http://www.markmonitor.com  
+Status: clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited  
+Expires On: 2028-09-14  
+Registered On: 1997-09-15  
+Updated On: 2019-09-09  
+Name Servers: ns1.google.com, 216.239.32.10
+
+--------------------------------------------------
+
+Domain: youtube.com  
+Registrar: MarkMonitor Inc.  
+Whois Server: whois.markmonitor.com  
+Referral URL: http://www.markmonitor.com  
+Status: clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited  
+Expires On: 2026-02-15  
+Registered On: 2005-02-15  
+Updated On: 2025-01-14  
+Name Servers: ns1.google.com, 216.239.32.10
+
+--------------------------------------------------
+
+Domain: facebook.com  
+Registrar: RegistrarSafe, LLC  
+Whois Server: whois.registrarsafe.com  
+Referral URL: http://www.registrarsafe.com  
+Status: clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited  
+Expires On: 2033-03-30  
+Registered On: 1997-03-29  
+Updated On: 2024-04-24  
+Name Servers: b.ns.facebook.com, 129.134.31.12
+
+--------------------------------------------------
+
+Domain: instagram.com  
+Registrar: RegistrarSafe, LLC  
+Whois Server: whois.registrarsafe.com  
+Referral URL: http://www.registrarsafe.com  
+Status: clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited  
+Expires On: 2033-06-04  
+Registered On: 2004-06-04  
+Updated On: 2024-06-26  
+Name Servers: a.ns.instagram.com, 129.134.30.12
+
+--------------------------------------------------
+
+Domain: twitter.com  
+Registrar: CSC Corporate Domains, Inc.  
+Whois Server: whois.corporatedomains.com  
+Referral URL: http://cscdbs.com  
+Status: clientTransferProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited  
+Expires On: 2026-01-21  
+Registered On: 2000-01-21  
+Updated On: 2025-01-17  
+Name Servers: a.r06.twtrdns.net (205.251.192.179), a.u06.twtrdns.net (204.74.111.101)
